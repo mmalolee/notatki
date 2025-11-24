@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1900115ea5c08cbd",
@@ -207,12 +206,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "785808ee52bb925a",
+  "active": "24820e91d2d2b5c5",
   "lastOpenFiles": [
-    "Pasted image 20251124180814.png",
-    "Pasted image 20251124180604.png",
-    "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
+    "Moduły natywne pythona/os_images",
+    "Moduły natywne pythona/os_images/listdir.png",
+    "Moduły natywne pythona/Pasted image 20251124180604.png",
     "Moduły natywne pythona/OS.md",
+    "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "Notatki.md",
