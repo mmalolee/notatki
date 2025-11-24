@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1900115ea5c08cbd",
@@ -209,6 +209,8 @@
   },
   "active": "785808ee52bb925a",
   "lastOpenFiles": [
+    "Pasted image 20251124180814.png",
+    "Pasted image 20251124180604.png",
     "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
     "Moduły natywne pythona/OS.md",
     "Excalidraw",
