@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "98b614fc47065b87",
+  "active": "5b3697e573334522",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
     "Moduły natywne pythona/OS.md",
