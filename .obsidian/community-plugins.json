@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "canvas-mindmap",
-  "mermaid-tools"
+  "mermaid-tools",
+  "highlightr-plugin"
 ]
