@@ -10,23 +10,25 @@
 
 ---
 
-#### <mark style="background: #FFB86CA6;"> **os.listdir()**</mark> -<mark style="background: #ABF7F7A6;"> *list direction*</mark> - zwraca LISTĘ nazw plików z katalogu, w którym aktualnie się znajdujemy 
+#### <mark style="background: #FFB86CA6;"> **os.listdir()**</mark> -<mark style="background: #ABF7F7A6;"> *list direction*</mark> - zwraca LISTĘ nazw plików i folderów z folderu, w którym aktualnie się znajdujemy 
 
 ![listdir](os_images/listdir.png)
 
 ---
 
 #### <mark style="background: #FFB86CA6;">**os.walk('*ścieżka `string`*')**</mark> - *<mark style="background: #ABF7F7A6;">przechodzić</mark>* - samo w sobie zwraca generator generujący krotkę/i z trzema wartościami; można przez nie przechodzić pętlą:
-- pierwszy element to ścieżka do pliku:
+
+- #### pierwszy element to ścieżka do aktualnie przetwarzanego folderu:
  
 ![walk_root.png](os_images/walk_root.png)
 
-- drugi to listy folderów:
+- #### drugi to listy folderów:
 
 ![walk_directory.png](os_images/walk_directory.png)
 
-- trzeci to listy plików w tych folderach:
+- #### trzeci to listy plików w tych folderach:
 
 ![walk_file.png](os_images/walk_file.png)
 
 ---
+
