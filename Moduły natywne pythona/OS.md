@@ -16,10 +16,10 @@
 
 ---
 
-#### <mark style="background: #FFB86CA6;">**os.walk('*ścieżka `string`*')**</mark> - *<mark style="background: #ABF7F7A6;">przechodzić</mark>* - samo w sobie zwraca generator generujący krotkę/i z trzema wartościami; można przez nie przechodzić pętlą 
+#### <mark style="background: #FFB86CA6;">**os.walk('*ścieżka `string`*')**</mark> - *<mark style="background: #ABF7F7A6;">przechodzić</mark>* - samo w sobie zwraca generator generujący krotkę/i z trzema wartościami; można przez nie przechodzić pętlą:
 - pierwszy element to ścieżka do pliku:
  
-![[walk_root.png]]
+![walk_root.png](os_images/walk_root.png)
 
 - drugi to listy folderów:
 
