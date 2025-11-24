@@ -6,6 +6,9 @@
 ![chdir.png](os_images/chdir.png)
 ---
 #### <mark style="background: #FFB86CA6;"> **os.listdir()**</mark> -<mark style="background: #ABF7F7A6;"> *list direction*</mark> - zwraca LISTĘ nazw plików z katalogu, w którym aktualnie się znajdujemy 
-![listdir](os_images/listdir.png)
+	![listdir](os_images/listdir.png)
 ---
-#### **os.walk('*ścieżka `string`*')** - *przechodzić* - samo w sobie zwraca trzy listy; pierwsza z nich to lista ścieżek![[getcwd.png]]
+#### <mark style="background: #FFB86CA6;">**os.walk('*ścieżka `string`*')**</mark> - *<mark style="background: #ABF7F7A6;">przechodzić</mark>* - samo w sobie zwraca generator generujący krotkę/i z trzema wartościami; można przez nie przechodzić pętlą 
+- pierwszy element to ścieżka do pliku:
+- drugi to listy folderów:
+- trzeci to listy plików w tych folderach:
