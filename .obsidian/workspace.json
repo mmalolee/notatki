@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "1900115ea5c08cbd",
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +207,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5b3697e573334522",
+  "active": "785808ee52bb925a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
     "Moduły natywne pythona/OS.md",
