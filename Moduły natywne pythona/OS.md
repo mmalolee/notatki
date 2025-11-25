@@ -29,6 +29,9 @@
 - #### trzeci to listy plików w tych folderach:
 
 ![walk_file.png](os_images/walk_file.png)
+#### Można dodawać warunki w pętli, np. odfiltrować puste listy, albo przejść wewnętrzną pętlą przez listy i dodać warunki czy dany element listy zawiera jakiś konkretny ciąg znaków:
+
+![walk_filtrowanie](os_images/walk_filtrowanie.png)
 
 ---
 
