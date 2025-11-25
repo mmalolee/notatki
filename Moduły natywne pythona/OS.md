@@ -1,4 +1,4 @@
-#### <mark style="background: #FFB86CA6;">**<mark style="background: #FF5582A6;">os.getcwd()</mark>** </mark>-  <mark style="background: #ABF7F7A6;">*get current working directory*</mark> - <mark style="background: #FFB86CA6;"></mark>zwraca STRINGA aktualnej ścieżki, na której pracujemy
+	#### <mark style="background: #FFB86CA6;">**<mark style="background: #FF5582A6;">os.getcwd()</mark>** </mark>-  <mark style="background: #ABF7F7A6;">*get current working directory*</mark> - <mark style="background: #FFB86CA6;"></mark>zwraca STRINGA aktualnej ścieżki, na której pracujemy
 
 ![getcwd](os_images/getcwd.png)
 
@@ -61,7 +61,7 @@
 
 ---
 
-#### **os.stat('nazwa_pliku' `*string*`)** - *statistics* - zwraca obiekt klasy, który opisuje statystyki pliku, którego nazwa została przekazana w argumencie
+#### **os.stat('nazwa_pliku' *`string`*)** - *statistics* - zwraca obiekt klasy, który opisuje statystyki pliku, którego nazwa została przekazana w argumencie
 
 | **Atrybut**      | **Opis**                                                                                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -105,4 +105,40 @@ os.path.dirname('sciezka')
 
 os.path.split('ścieżka)
 
-![[path_split.png]]
+![path_split.png](os_images/path_split.png)
+
+---
+
+os.path.splitext('sciezka') - split extension- 
+
+![path_splitext.png](os_images/path_splitext.png)
+
+---
+
+os.path.isdir('sciezka') - is directory
+
+---
+os.path.join('sciezka', 'sciezka'...) - połączyć - 
+
+![path_join.png](os_images/path_join.png)
+
+---
+
+os.path.getctime('sciezka') - get creation time- 
+
+![Pasted image 20251125162443.png](os_images/path_getctime.png)
+
+---
+
+os.path.abspath(sciezka) 0 absolute path - jak poda sie nazwe pliku to poda całą ścieżkę do niego
+
+---
+
+os.remove('nazwa_pliku') - usuwa plik
+
+---
+
+os.getpid() - get process id - zwraca id aktualnego procesu
+
+---
+
