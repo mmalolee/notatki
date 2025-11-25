@@ -33,5 +33,18 @@
 
 ![walk_filtrowanie](os_images/walk_filtrowanie.png)
 
+#### Kombinując z roots i files można łatwo wygenerować sobie ścieżki do wszystkich plików:
+
+![walk_tworzeniesciezekdoplikow](os_images/walk_tworzeniesciezekdoplikow.png)
+
 ---
 
+#### <mark style="background: #FFB86CA6;">**os.mkdir('*nazwa_folderu `string`*')**</mark> - <mark style="background: #ABF7F7A6;">*make directory*</mark> - tworzy folder  w katalogu, w którym aktualnie się znajdujemy (tylko jeden)
+
+![mkdir](os_images/mkdir.png)
+
+---
+
+#### <mark style="background: #FFB86CA6;">**os.makedirs('*nazwy_folderów_jako_ścieżka `string`*')**</mark> - *<mark style="background: #ABF7F7A6;">make directories</mark>* - to samo co poprzednik, z tą różnicą, że może tworzyć zagnieżdżone struktury
+
+![makedirs](os_images/makedirs.png)
