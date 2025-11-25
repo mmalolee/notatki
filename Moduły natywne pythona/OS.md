@@ -1,4 +1,4 @@
-	#### <mark style="background: #FFB86CA6;">**<mark style="background: #FF5582A6;">os.getcwd()</mark>** </mark>-  <mark style="background: #ABF7F7A6;">*get current working directory*</mark> - <mark style="background: #FFB86CA6;"></mark>zwraca STRINGA aktualnej ścieżki, na której pracujemy
+#### <mark style="background: #FFB86CA6;">**<mark style="background: #FF5582A6;">os.getcwd()</mark>** </mark>-  <mark style="background: #ABF7F7A6;">*get current working directory*</mark> - <mark style="background: #FFB86CA6;"></mark>zwraca STRINGA aktualnej ścieżki, na której pracujemy
 
 ![getcwd](os_images/getcwd.png)
 
@@ -130,7 +130,7 @@ os.path.getctime('sciezka') - get creation time-
 
 ---
 
-os.path.abspath(sciezka) 0 absolute path - jak poda sie nazwe pliku to poda całą ścieżkę do niego
+os.path.abspath(sciezka) 0 absolute path - jak poda sie nazwe pliku w aktualnej 
 
 ---
 
