@@ -81,7 +81,7 @@
 
 ---
 
-#### **os.environ['klucz' *`string`*]** - *environment* - obiekt, który zachowuje się jak słownik i przechowuje zmienne środowiskowe. 
+<mark style="background: #FFB86CA6;">#### **os.environ['klucz' *`string`*]**</mark> - <mark style="background: #ABF7F7A6;">*environment*</mark> - obiekt, który zachowuje się jak słownik i przechowuje zmienne środowiskowe. 
 
 ![environ_items!](environ_items.png)
 
@@ -91,7 +91,7 @@ Za jego pomocą można pobierać zmienne z pliku `.env` bezpośrednio albo za po
 
 ---
 
-os.path.basename('sciezka')
+#### os.path.basename('sciezka')
 
 ![path_basename.png](os_images/path_basename.png)
 
