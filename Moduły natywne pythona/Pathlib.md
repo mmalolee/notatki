@@ -1,1 +1,1 @@
-elo
+elo uzupelnij z notebooka pathlib_praktyka
