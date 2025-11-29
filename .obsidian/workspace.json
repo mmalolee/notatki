@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moduły natywne pythona/SYS.md",
+                "file": "Moduły natywne pythona/Argparse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SYS"
+              "title": "Argparse"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "2fa3be2653833192",
   "lastOpenFiles": [
+    "Moduły natywne pythona/SYS.md",
     "Moduły natywne pythona/Argparse.md",
     "parse.md",
-    "Moduły natywne pythona/SYS.md",
     "Moduły natywne pythona/argp_img/parse_args.png",
     "Moduły natywne pythona/argp_img/argp_instance.png",
     "Moduły natywne pythona/argp_img",
