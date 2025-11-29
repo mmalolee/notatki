@@ -206,11 +206,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "24820e91d2d2b5c5",
+  "active": "2fa3be2653833192",
   "lastOpenFiles": [
-    "Moduły natywne pythona/img_argp",
-    "Moduły natywne pythona/SYS.md",
+    "Moduły natywne pythona/argp_img/argp_instance.png",
     "Moduły natywne pythona/Argparse.md",
+    "Moduły natywne pythona/argp_img",
+    "Moduły natywne pythona/SYS.md",
     "Moduły natywne pythona/sys_img/executable.png",
     "Moduły natywne pythona/sys_img/sys_path.png",
     "Moduły natywne pythona/sys_img/argv_ify.png",
@@ -220,7 +221,6 @@
     "Moduły natywne pythona/sys_img/argv_len.png",
     "Moduły natywne pythona/sys_img/argv_slicing.png",
     "Moduły natywne pythona/sys_img/argv_1.png",
-    "Moduły natywne pythona/sys_img/argv.png",
     "Moduły natywne pythona/sys_img",
     "Moduły natywne pythona/OS.md",
     "Moduły natywne pythona/Pathlib.md",
