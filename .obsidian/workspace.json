@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moduły natywne pythona/OS.md",
+                "file": "Moduły natywne pythona/SYS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "SYS"
             }
           }
         ]
@@ -208,7 +208,16 @@
   },
   "active": "2fa3be2653833192",
   "lastOpenFiles": [
+    "Moduły natywne pythona/sys_img/argv_ify.png",
     "Moduły natywne pythona/SYS.md",
+    "Moduły natywne pythona/sys_img/exit_out.png",
+    "Moduły natywne pythona/sys_img/exit_code.png",
+    "Moduły natywne pythona/sys_img/argv_len.png",
+    "Moduły natywne pythona/sys_img/argv_len.png",
+    "Moduły natywne pythona/sys_img/argv_slicing.png",
+    "Moduły natywne pythona/sys_img/argv_1.png",
+    "Moduły natywne pythona/sys_img/argv.png",
+    "Moduły natywne pythona/sys_img",
     "Moduły natywne pythona/OS.md",
     "Moduły natywne pythona/Pathlib.md",
     "Untitled.canvas",
@@ -217,14 +226,6 @@
     "Moduły natywne pythona/pathlib_images",
     "Moduły natywne pythona/os_images/path_getctime.png",
     "Moduły natywne pythona/os_images/path_join.png",
-    "Pasted image 20251125160702.png",
-    "Moduły natywne pythona/os_images/path_splitext.png",
-    "Moduły natywne pythona/os_images/path_split.png",
-    "Moduły natywne pythona/os_images/path_dirname.png",
-    "Moduły natywne pythona/os_images/path_basename.png",
-    "Moduły natywne pythona/os_images/env_api1_directly.png",
-    "Moduły natywne pythona/os_images/environ_items.png",
-    "Moduły natywne pythona/os_images/environ_items.png",
     "os_images/walk_directory.md",
     "os_images",
     "Moduły natywne pythona/os_images",
