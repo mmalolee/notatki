@@ -91,54 +91,54 @@ Za jego pomocą można pobierać zmienne z pliku `.env` bezpośrednio albo za po
 
 ---
 
-#### os.path.basename('sciezka')
+#### <mark style="background: #FFB86CA6;">**os.path.basename('sciezka' *`string`*)**</mark> - <mark style="background: #ABF7F7A6;">*nazwa podstawowa*</mark> - zwraca ostatni element ścieżki
 
 ![path_basename.png](os_images/path_basename.png)
 
 ---
 
-os.path.dirname('sciezka')
+#### <mark style="background: #FFB86CA6;">**os.path.dirname('sciezka' *`string`*)**</mark> - <mark style="background: #ABF7F7A6;">*direction name*</mark> - zwraca wszystko poza ostatnim elementem ścieżki
 
 ![path_dirname.png](os_images/path_dirname.png)
 
 ---
 
-os.path.split('ścieżka)
+<mark style="background: #FFB86CA6;">#### os.path.split('ścieżka' *`string`*)</mark> - <mark style="background: #ABF7F7A6;">*rozdziel*</mark> - zwraca tuple, którego pierwszy element to cała ścieżka bez ostatniego elementu, a drugi to ostatni element
 
 ![path_split.png](os_images/path_split.png)
 
 ---
 
-os.path.splitext('sciezka') - split extension- 
+#### <mark style="background: #FFB86CA6;">os.path.splitext('sciezka' *`string`*)</mark> - <mark style="background: #ABF7F7A6;">*split extension*</mark> -  zwraca tuple, którego pierwszy element to cała ścieżka łącznie z ostatnim elementem, a drugi to rozszerzenie ostatniego elementu
 
 ![path_splitext.png](os_images/path_splitext.png)
 
 ---
 
-os.path.isdir('sciezka') - is directory
+#### <mark style="background: #FFB86CA6;">os.path.isdir('sciezka' *`string`*)</mark> - *<mark style="background: #ABF7F7A6;">is directory</mark>* - zwraca boolean; sprawdza czy dany plik jest folderem
 
 ---
-os.path.join('sciezka', 'sciezka'...) - połączyć - 
+#### <mark style="background: #FFB86CA6;">os.path.join('sciezka', 'sciezka'...)</mark> - *<mark style="background: #ABF7F7A6;">połączyć</mark>* - łączy podane stringi w ścieżkę 
 
 ![path_join.png](os_images/path_join.png)
 
 ---
 
-os.path.getctime('sciezka') - get creation time- 
+#### **<mark style="background: #FFB86CA6;">os.path.getctime('sciezka' *`string`*)</mark>** - *<mark style="background: #ABF7F7A6;">get creation time</mark>* - zwraca timestamp określający czas stworzenia 
 
 ![Pasted image 20251125162443.png](os_images/path_getctime.png)
 
 ---
 
-os.path.abspath(sciezka) 0 absolute path - jak poda sie nazwe pliku w aktualnej 
+#### **<mark style="background: #FFB86CA6;">os.path.abspath('sciezka' *`string`*)</mark>** - *<mark style="background: #ABF7F7A6;">absolute path</mark>* - jak poda się nazwę pliku w aktualnej ścieżce to zwróci ścieżkę absolutną
 
 ---
 
-os.remove('nazwa_pliku') - usuwa plik
+#### <mark style="background: #FFB86CA6;">**os.remove('nazwa_pliku' *`string`*)**</mark> - *<mark style="background: #ABF7F7A6;">remove</mark>* - usuwa plik
 
 ---
 
-os.getpid() - get process id - zwraca id aktualnego procesu
+#### **<mark style="background: #FFB86CA6;">os.getpid()</mark>** - <mark style="background: #ABF7F7A6;">get process id</mark> - zwraca id aktualnego procesu
 
 ---
 
