@@ -35,3 +35,15 @@
 
 ---
 
+#### **<mark style="background: #FFB86CA6;">sys.path</mark>** - <mark style="background: #ABF7F7A6;">`python path`</mark> - lista katalogów, w których Python szuka modułów do zaimportowania; jeśli Python "nie widzi" pliku `.py` w innym folderze, to tutaj szuka się ratunku; pierwszy element tej listy to ścieżka do pliku na którym pracujemy; jeżeli chcemy zaimportować jakiś pakiet skądś to musimy dodać do niego ścieżkę metodą `append()` do sys.path
+
+![[sys_path.png](sys_img/sys_path.png)
+
+---
+
+#### <mark style="background: #FFB86CA6;">**sys.executable**</mark> - <mark style="background: #ABF7F7A6;">`interpreter path`</mark> - ścieżka do pliku `.exe` (lub binarnego) Pythona, który aktualnie wykonuje kod; kluczowe, żeby sprawdzić, czy na pewno używasz swojego środowiska Conda, a nie systemowego Pythona
+
+![[executable.png](sys_img/executable.png)
+
+---
+
