@@ -11,10 +11,14 @@
             "id": "2fa3be2653833192",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Moduły natywne pythona/Logging.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Logging"
             }
           }
         ]
@@ -202,8 +206,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "24820e91d2d2b5c5",
+  "active": "2fa3be2653833192",
   "lastOpenFiles": [
+    "Moduły natywne pythona/log_img/zero_div.png",
+    "Moduły natywne pythona/Logging.md",
+    "Moduły natywne pythona/OS.md",
+    "Moduły natywne pythona/log_img/lvl.png",
+    "Moduły natywne pythona/log_img",
+    "Pasted image 20251208134142.png",
+    "Moduły natywne pythona/SYS.md",
     "Moduły natywne pythona/Pathlib.md",
     "Moduły natywne pythona/sys_img/sys_path.png",
     "Moduły natywne pythona/sys_img/exit_out.png",
@@ -212,14 +223,9 @@
     "Moduły natywne pythona/sys_img/argv_slicing.png",
     "Moduły natywne pythona/sys_img/argv_len.png",
     "Moduły natywne pythona/sys_img/argv_ify.png",
-    "Moduły natywne pythona/sys_img/argv_1.png",
-    "Moduły natywne pythona/sys_img/argv.png",
     "Moduły natywne pythona/sys_img",
-    "Moduły natywne pythona/argp_img/z.png",
     "Moduły natywne pythona/argp_img",
-    "Moduły natywne pythona/SYS.md",
     "Moduły natywne pythona/Argparse.md",
-    "Moduły natywne pythona/OS.md",
     "Untitled.canvas",
     "Untitled.base",
     "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
