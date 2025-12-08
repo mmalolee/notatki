@@ -11,14 +11,10 @@
             "id": "2fa3be2653833192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moduły natywne pythona/Argparse.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Argparse"
+              "title": "New tab"
             }
           }
         ]
@@ -208,23 +204,22 @@
   },
   "active": "24820e91d2d2b5c5",
   "lastOpenFiles": [
-    "Moduły natywne pythona/argp_img/kom.png",
-    "Moduły natywne pythona/Argparse.md",
-    "Moduły natywne pythona/argp_img/na.png",
-    "Moduły natywne pythona/argp_img/dat.png",
-    "Moduły natywne pythona/argp_img/apc.png",
-    "Moduły natywne pythona/argp_img/co.png",
-    "Moduły natywne pythona/argp_img/sur.png",
-    "Moduły natywne pythona/argp_img/ex.png",
-    "Moduły natywne pythona/argp_img/ap.png",
-    "Moduły natywne pythona/argp_img/st.png",
-    "Moduły natywne pythona/argp_img/pa.png",
-    "Moduły natywne pythona/SYS.md",
-    "parse.md",
-    "Moduły natywne pythona/argp_img",
-    "Moduły natywne pythona/sys_img",
-    "Moduły natywne pythona/OS.md",
     "Moduły natywne pythona/Pathlib.md",
+    "Moduły natywne pythona/sys_img/sys_path.png",
+    "Moduły natywne pythona/sys_img/exit_out.png",
+    "Moduły natywne pythona/sys_img/exit_code.png",
+    "Moduły natywne pythona/sys_img/executable.png",
+    "Moduły natywne pythona/sys_img/argv_slicing.png",
+    "Moduły natywne pythona/sys_img/argv_len.png",
+    "Moduły natywne pythona/sys_img/argv_ify.png",
+    "Moduły natywne pythona/sys_img/argv_1.png",
+    "Moduły natywne pythona/sys_img/argv.png",
+    "Moduły natywne pythona/sys_img",
+    "Moduły natywne pythona/argp_img/z.png",
+    "Moduły natywne pythona/argp_img",
+    "Moduły natywne pythona/SYS.md",
+    "Moduły natywne pythona/Argparse.md",
+    "Moduły natywne pythona/OS.md",
     "Untitled.canvas",
     "Untitled.base",
     "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
