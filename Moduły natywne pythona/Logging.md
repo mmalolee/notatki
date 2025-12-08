@@ -37,6 +37,9 @@
 
 ---
 
-#### python-json-logger
+#### python-json-logger  - aby logi miały format JSON (przy dictConfig) należy w sekcji "formatters" w konkretny formaterze dodać pole `"class":  "pythonjsonlogger.jsonlogger.JsonFormatter"`
+
+![jsonformat.png](log_img/jsonformat.png)
 
 ---
+
