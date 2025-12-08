@@ -26,3 +26,17 @@
 
 ---
 
+# Tworzenie dictConfigu - nie ma sensu się uczyć całego, należy pamiętać, że to profesjonalne podejście i wrócić kiedy będzie to potrzebne
+
+
+---
+
+#### Przepływ logowania
+
+![logflow.png](log_img/logflow.png)
+
+---
+
+#### python-json-logger
+
+---
