@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moduły natywne pythona/Logging.md",
+                "file": "Moduły natywne pythona/Itertools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logging"
+              "title": "Itertools"
             }
           }
         ]
@@ -208,25 +208,27 @@
   },
   "active": "2fa3be2653833192",
   "lastOpenFiles": [
-    "log_img.md",
+    "Moduły natywne pythona/it_img/grby.png",
+    "Moduły natywne pythona/Itertools.md",
+    "Moduły natywne pythona/it_img/zlongest.png",
+    "Moduły natywne pythona/it_img/islice.png",
+    "Moduły natywne pythona/it_img/chain.png",
     "Moduły natywne pythona/Logging.md",
+    "Moduły natywne pythona/OS.md",
+    "Pasted image 20251210192236.png",
+    "Moduły natywne pythona/it_img",
+    "Moduły natywne pythona/it_img/product.png",
+    "Moduły natywne pythona/Argparse.md",
+    "log_img.md",
     "Moduły natywne pythona/log_img/jsonformat.png",
     "Moduły natywne pythona/log_img/logflow.png",
-    "Moduły natywne pythona/Argparse.md",
     "Moduły natywne pythona/log_img/zero_div.png",
     "Moduły natywne pythona/log_img/lvl.png",
     "Moduły natywne pythona/log_img",
-    "Moduły natywne pythona/argp_img/kom.png",
-    "Moduły natywne pythona/argp_img/na.png",
-    "Moduły natywne pythona/argp_img/dat.png",
-    "Moduły natywne pythona/argp_img/apc.png",
-    "Moduły natywne pythona/argp_img/co.png",
-    "Moduły natywne pythona/argp_img/sur.png",
     "Moduły natywne pythona/SYS.md",
     "parse.md",
     "Moduły natywne pythona/argp_img",
     "Moduły natywne pythona/sys_img",
-    "Moduły natywne pythona/OS.md",
     "Moduły natywne pythona/Pathlib.md",
     "Untitled.canvas",
     "Untitled.base",
