@@ -62,8 +62,16 @@
 
 #### **itertools.tee(iterable, n=2)** – `rozdzielenie strumienia` – Zwraca `n` niezależnych iteratorów z pojedynczego wejściowego iteratora.
 
-##### **ISTOTNE DLA MLE (MEGA ISTOTNE!):** Iterator, raz użyty, zużywa dane. Jeśli potrzebujesz przetworzyć dane z generatora na dwa sposoby (np. raz do logowania statystyk, a raz do faktycznego treningu), bez `tee` musiałbyś uruchomić generator dwukrotnie. `tee` pozwala rozdzielić JEDEN strumień na kilka, oszczędzając czas i zasoby.
+##### **ISTOTNE DLA MLE (MEGA ISTOTNE!):** Iterator, raz użyty, zużywa dane. Jeśli potrzebujesz przetworzyć dane z generatora na dwa sposoby (np. raz do logowania statystyk, a raz do faktycznego treningu), bez `tee` musiałbyś uruchomić generator dwukrotnie. `tee` pozwala rozdzielić JEDEN strumień na kilka, oszczędzając czas i zasoby. **Ostrzeżenie o Pamięci:** `tee` buforuje dane. Jeśli zaczniesz konsumować jeden iterator (`iter1`) dużo szybciej niż drugi (`iter2`), system **przechowa w pamięci RAM** wszystkie elementy "zjedzone" przez `iter1`, czekając na `iter2`. Na dużych datasetach prowadzi to do błędu Out-Of-Memory (OOM).
 
 ![tee.png](it_img/tee.png)
+
+---
+
+#### <mark style="background: #FFB86CA6;">**itertools.starmap(function, iterable)**</mark> – <mark style="background: #ABF7F7A6;">`rozpakowane mapowanie`</mark> – Zwraca iterator, który aplikuje zadaną `function` na elementy wejściowego `iterable`, **rozpakowując (`*`) każdy element** (który musi być krotką lub listą argumentów) i przekazując go jako oddzielne argumenty do funkcji.
+
+##### **ISTOTNE DLA MLE:** Umożliwia wektorowe, wydajne aplikowanie funkcji (np. potęgowania, sumowania, odległości) na listach parametrów lub współrzędnych bez tworzenia dużych list pośrednich. Idealne do aplikowania funkcji treningowej na listach konfiguracji.
+
+![strmap.png](it_img/starmap.png)
 
 ---
