@@ -28,4 +28,26 @@
 
 ---
 
+#### <mark style="background: #FFB86CA6;">**itertools.combinations(iterable, r)**</mark> – <mark style="background: #ABF7F7A6;">`nieuporządkowany wybór`</mark> – Generuje wszystkie możliwe, unikatowe podzbiory o długości `r`. Kolejność elementów wewnątrz podzbioru jest **ignorowana** ([A, B] == [B, A], zwróci tylko jeden przypadek).
+
+##### **ISTOTNE DLA MLE:** Służy do tworzenia zestawów cech (feature selection) lub dyskretnych kombinacji hiperparametrów, gdy kolejność ich podawania do modelu nie ma znaczenia.
+
+![combinations.png](it_img/combinations.png)
+
+---
+
+#### <mark style="background: #FFB86CA6;">**itertools.permutations(iterable, r)**</mark> – <mark style="background: #ABF7F7A6;">`uporządkowany wybór`</mark> – Generuje wszystkie możliwe **uporządkowane** sekwencje o długości `r`. Kolejność elementów jest **kluczowa**.
+
+##### **ISTOTNE DLA MLE:** Rzadziej używane niż `combinations`, ale przydatne do testowania kolejności procesów (np. kolejności preprocesorów w pipeline'ie) lub w zadaniach rankingowych, gdzie kolejność ma wpływ na wynik.
+
+![perm.png](it_img/perm.png)
+
+---
+
+
+
+
+
+
+
 combinations permutations count cycle tee
