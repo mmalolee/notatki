@@ -44,10 +44,26 @@
 
 ---
 
+#### <mark style="background: #FFB86CA6;">**itertools.count(start=0, step=1)**</mark> – <mark style="background: #ABF7F7A6;">`nieskończony licznik`</mark> – Zwraca iterator, który generuje nieskończoną sekwencję równo oddalonych liczb, zaczynając od `start`.
 
+##### **ISTOTNE DLA MLE:** Idealne do tworzenia własnych liczników epok lub indeksowania w nieskończonych data loaderach/generatorach, zastępując `while True` bezpiecznym iteratorem.
 
+![ctr.png](it_img/ctr.png)
 
+---
 
+#### <mark style="background: #FFB86CA6;">**itertools.cycle(iterable)**</mark> – <mark style="background: #ABF7F7A6;">`nieskończone powtarzanie`</mark> – Zwraca iterator, który nieskończenie powtarza elementy z wejściowego obiektu iterowalnego, odtwarzając sekwencję po jej wyczerpaniu.
 
+##### **ISTOTNE DLA MLE:** Stosowane do cyklicznego wykorzystywania małych list konfiguracyjnych w długim procesie (np. rotacja optymalizatorów, cykliczne użycie małego zestawu danych testowych).
 
-combinations permutations count cycle tee
+![cycle.png](it_img/cycle.png)
+
+---
+
+#### **itertools.tee(iterable, n=2)** – `rozdzielenie strumienia` – Zwraca `n` niezależnych iteratorów z pojedynczego wejściowego iteratora.
+
+##### **ISTOTNE DLA MLE (MEGA ISTOTNE!):** Iterator, raz użyty, zużywa dane. Jeśli potrzebujesz przetworzyć dane z generatora na dwa sposoby (np. raz do logowania statystyk, a raz do faktycznego treningu), bez `tee` musiałbyś uruchomić generator dwukrotnie. `tee` pozwala rozdzielić JEDEN strumień na kilka, oszczędzając czas i zasoby.
+
+![tee.png](it_img/tee.png)
+
+---
