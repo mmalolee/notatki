@@ -21,3 +21,9 @@
 ![wraps.png](ft_img/wraps.png)
 
 ---
+
+#### <mark style="background: #FFB86CA6;">**functools.reduce()**</mark> – <mark style="background: #ABF7F7A6;">`agregacja / pipeline`</mark> – aplikuje funkcję do elementów sekwencji narastająco, redukując je do jednego wyniku. W ML kluczowe do **składania funkcji (function composition)** – pozwala dynamicznie budować potoki preprocessingu, przepuszczając dane sekwencyjnie przez listę transformacji, bez pisania wielopiętrowych zagnieżdżeń.
+
+![red.png](ft_img/red.png)
+
+---
