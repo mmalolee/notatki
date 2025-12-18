@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moduły natywne pythona/Functools.md",
+                "file": "Moduły natywne pythona/OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functools"
+              "title": "OS"
             }
           }
         ]
@@ -208,22 +208,25 @@
   },
   "active": "2fa3be2653833192",
   "lastOpenFiles": [
-    "Moduły natywne pythona/SYS.md",
+    "Moduły natywne pythona/Typing.md",
+    "Moduły natywne pythona/typ_img/kom.png",
+    "Moduły natywne pythona/typ_img/ann.png",
+    "Moduły natywne pythona/typ_img/alias.png",
+    "Moduły natywne pythona/typ_img/seq.png",
+    "Moduły natywne pythona/typ_img/literal.png",
+    "Moduły natywne pythona/typ_img/any.png",
     "Moduły natywne pythona/Argparse.md",
-    "Moduły natywne pythona/ft_img/red.png",
+    "Moduły natywne pythona/typ_img/bib.png",
+    "Moduły natywne pythona/typ_img/iter.png",
+    "Moduły natywne pythona/typ_img/call.png",
+    "Moduły natywne pythona/typ_img/u.png",
+    "Moduły natywne pythona/typ_img",
+    "Moduły natywne pythona/sys_img/typ_img",
     "Moduły natywne pythona/Functools.md",
-    "Moduły natywne pythona/ft_img/wraps.png",
-    "Moduły natywne pythona/ft_img/cap.png",
-    "Moduły natywne pythona/ft_img/lru.png",
-    "Moduły natywne pythona/ft_img/partial.png",
+    "Moduły natywne pythona/SYS.md",
     "Moduły natywne pythona/Itertools.md",
     "Moduły natywne pythona/ft_img",
     "Moduły natywne pythona/DUNDER.md",
-    "Moduły natywne pythona/d_img/enterexit.png",
-    "Moduły natywne pythona/d_img/iternext.png",
-    "Moduły natywne pythona/d_img/docstr.png",
-    "Moduły natywne pythona/d_img/strrepr.png",
-    "Moduły natywne pythona/d_img/gitem.png",
     "Moduły natywne pythona/d_img",
     "Moduły natywne pythona/Logging.md",
     "Moduły natywne pythona/OS.md",
@@ -239,8 +242,6 @@
     "Excalidraw/Drawing 2025-11-23 16.01.52.excalidraw.md",
     "Moduły natywne pythona/pathlib_images",
     "os_images/walk_directory.md",
-    "os_images",
-    "Moduły natywne pythona/os_images",
     "Notatki.md",
     "OS.md"
   ]
