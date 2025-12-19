@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moduły natywne pythona/OS.md",
+                "file": "Moduły natywne pythona/Typing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "Typing"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "2fa3be2653833192",
   "lastOpenFiles": [
+    "Moduły natywne pythona/OS.md",
     "Moduły natywne pythona/Typing.md",
     "Moduły natywne pythona/typ_img/kom.png",
     "Moduły natywne pythona/typ_img/ann.png",
@@ -229,7 +230,6 @@
     "Moduły natywne pythona/DUNDER.md",
     "Moduły natywne pythona/d_img",
     "Moduły natywne pythona/Logging.md",
-    "Moduły natywne pythona/OS.md",
     "Moduły natywne pythona/it_img",
     "log_img.md",
     "Moduły natywne pythona/log_img",
