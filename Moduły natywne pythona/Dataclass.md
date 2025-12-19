@@ -1,0 +1,1 @@
+**Dataclasses** to sposób na szybkie tworzenie klas przechowujących dane bez pisania powtarzalnego kodu. W ML używa się ich do budowania czytelnych konfiguracji eksperymentów, które łatwo zamienić na słownik i zablokować przed przypadkową zmianą parametrów.
