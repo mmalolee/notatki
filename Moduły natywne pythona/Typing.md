@@ -4,7 +4,7 @@
 
 #### <mark style="background: #FFB86CA6;">**list / dict / tuple**</mark> – <mark style="background: #ABF7F7A6;">`wbudowane (3.9+)`</mark> – Od Pythona 3.9 **nie importujemy** już `List`, `Dict`, `Tuple` z modułu `typing`. Używamy małych liter (built-ins). W ML kluczowe do czystego definiowania **hiperparametrów**, **historii strat (loss)** czy **wymiarów obrazów**, bez zaśmiecania sekcji importów. 
 
-![listy.png](listy.png)
+![listy.png](typ_img/listy.png)listy.png)
 
 ---
 
